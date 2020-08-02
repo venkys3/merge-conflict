@@ -7,7 +7,7 @@ Initial Function()
 
 feature1()
 {
-  //Sample Code for Feature 1
+  //updated Feature 1
 }
 
 
